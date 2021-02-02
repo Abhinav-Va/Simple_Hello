@@ -16,3 +16,11 @@ How to Use
   4. Type go run main.go in the terminal. 
 
       go run main.go
+
+
+
+    ory
+
+https://github.com/JECSand/guess_the_number.git
+
+    cd into the guess_the_number directory
